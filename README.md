@@ -7,3 +7,4 @@
 * JUnit
 * Database PostgreSQL
 * Maven
+* IDE Eclipse
